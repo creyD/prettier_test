@@ -1,6 +1,6 @@
 function test() {
-  var test = "test";
-  return test;
+  var ongo = "test";
+  return ongo;
 }
 
 test();
