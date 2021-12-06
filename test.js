@@ -1,8 +1,8 @@
 // Another day, another commit
 function test() {
   var ongo = "test";
-  const another = "testing"
-  return ongo
+  const another = "testing";
+  return ongo;
 }
-test()
-console.log("Yes testing")
+test();
+console.log("Yes testing");
