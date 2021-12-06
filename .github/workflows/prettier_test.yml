@@ -3,6 +3,8 @@ name: Prettier Test
 on:
   push:
     branches: [main]
+    paths:
+    - '**.js'
 
 jobs:
   deploy:
