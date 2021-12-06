@@ -1,6 +1,6 @@
 function test() {
-  var ongo = "test";
+  var ongo = "test"
   return ongo;
 }
-
-test();
+test()
+console.log("Yes testing");
