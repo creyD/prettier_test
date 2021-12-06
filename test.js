@@ -1,7 +1,8 @@
+// Even more disgusting
 function test() {
   var ongo = "test";
-  return ongo;
+  return ongo
 }
 test();
 console.log("Yes testing");
-// Even more disgusting
+
