@@ -1,4 +1,4 @@
-// Even more disgusting
+// Another day, another commit
 function test() {
   var ongo = "test";
   return ongo;
