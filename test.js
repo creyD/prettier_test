@@ -7,4 +7,4 @@ function test() {
 
 test()
 
-console.log("Yes testing")
+console.log("Yes testing 2")
