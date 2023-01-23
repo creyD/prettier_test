@@ -21,5 +21,6 @@ jobs:
       uses: creyD/prettier_action@dev
       with:
         prettier_options: --write **/*.js
+        clean_node_folder: false
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
