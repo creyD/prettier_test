@@ -1,8 +1,8 @@
 // Another day, another commit
 function test() {
   var ongo = "test";
-  const another = "testin asdf"
-  return  ongo
+  const another = "testin asdf";
+  return ongo;
 }
 
 test();
