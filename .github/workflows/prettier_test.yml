@@ -23,4 +23,4 @@ jobs:
       uses: creyD/prettier_action@v4.4
       with:
         prettier_options: --write **/*.js
-        prettier_plugins: prettier-plugin-svelte
+        prettier_plugins: stripe
