@@ -2,7 +2,7 @@
 function test() {
   var ongo = "test";
   const another = "testin asdf";
-  return ongo;
+  return ongo ;
 }
 
 test() ;
