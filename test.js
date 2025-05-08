@@ -1,9 +1,11 @@
 // Another day, another commit
-function test() {
+function test(){
   var ongo = "test";
-  const another = "testin asdf";
+  const another = "testin asdf" ;
   return ongo;
 }
+
+
 
 test();
 
