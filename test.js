@@ -2,9 +2,9 @@
 function test() {
   var ongo = "test";
   const another = "testin asdf";
-  return ongo;
+  return ongo
 }
 
-test();
+test()
 
-console.log("Yes testing 2");
+console.log("Yes testing 2" );
